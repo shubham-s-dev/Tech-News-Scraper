@@ -21,4 +21,4 @@ An automated Python bot that scrapes the latest trending tech stories from **Hac
 4. Formats a message and sends it via Telegram Bot.
 
 ## Author
-**Shubham S**
+**shubham-s-dev**
